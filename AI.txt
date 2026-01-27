@@ -1,0 +1,5 @@
+AI agents are intelligent entities that can perceive their environment and take actions to achieve specific goals.
+They can be rule-based, learning-based, or a combination of both.
+AI agents are used in various applications, including robotics, virtual assistants, and game playing.
+They can automate tasks, provide personalized recommendations, and solve complex problems.
+The development of AI agents is a rapidly evolving field with the potential to transform many aspects of our lives.
